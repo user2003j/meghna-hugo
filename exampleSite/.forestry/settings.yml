@@ -7,16 +7,16 @@ sections:
 - type: heading
   label: Blog Post
 - type: directory
-  path: exampleSite/content/english/blog
-  label: Post (en)
+  path: exampleSite/content/deutsch/blog
+  label: Post (de)
   create: documents
   match: "**/*"
   new_doc_ext: '20191203072044'
   templates:
   - post
 - type: directory
-  path: exampleSite/content/french/blog
-  label: Post (fr)
+  path: exampleSite/content/english/blog
+  label: Post (en)
   create: documents
   match: "**/*"
   templates:
@@ -25,14 +25,14 @@ sections:
   label: Author
 - type: directory
   path: exampleSite/content/english/author
-  label: Author (en)
+  label: Author (de)
   create: documents
   match: "**/*"
   templates:
   - author
 - type: directory
   path: exampleSite/content/french/author
-  label: Author (fr)
+  label: Author (en)
   create: documents
   match: "**/*"
   templates:
