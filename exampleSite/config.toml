@@ -84,7 +84,7 @@ enable = true
 preloader = "images/logo.png"
 [[params.social]]
 icon = "ti-instagram"
-link = "instagram.com/fmt"
+link = "https://www.instagram.com/fmtngk/"
 [[params.social]]
 icon = "ti-facebook"
-link = "facebook.com/fmt"
+link = "https://www.facebook.com/fmtngk"
